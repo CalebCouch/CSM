@@ -19,11 +19,11 @@ export default {
   @font-face {
     font-family: Montserrat;
     font-weight: bold;
-    src: url("./assets/Montserrat/Montserrat-bold.otf") format("opentype");
+    src: url("./assets/Montserrat/Montserrat-Bold.otf") format("opentype");
   }
   @font-face {
     font-family: Montserrat-semibold;
-    src: url("./assets/Montserrat/Montserrat-semibold.otf") format("opentype");
+    src: url("./assets/Montserrat/Montserrat-Semibold.otf") format("opentype");
   }
   @font-face {
     font-family: Montserrat-Medium;
@@ -35,7 +35,7 @@ export default {
   }
   @font-face {
     font-family: Montserrat;
-    src: url("./assets/Montserrat/Montserrat-regular.otf") format("opentype");
+    src: url("./assets/Montserrat/Montserrat-Regular.otf") format("opentype");
     font-weight: normal;
   }
 
