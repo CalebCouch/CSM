@@ -23,7 +23,7 @@ export default {
   }
   @font-face {
     font-family: Montserrat-semibold;
-    src: url("./assets/Montserrat/Montserrat-Semibold.otf") format("opentype");
+    src: url("./assets/Montserrat/Montserrat-SemiBold.otf") format("opentype");
   }
   @font-face {
     font-family: Montserrat-Medium;
