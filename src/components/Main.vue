@@ -13,7 +13,7 @@
       <div class="Content-One">
         <p class="H1 B" style="color: #001B27; padding-bottom: 1%;">Computer Science Mentorship for Calvinist Homeschoolers</p>
         <p class="H35" style="width: 100%;">A proven curriculum to teach your children programming and mathematics taught by a retired software CEO.</p>
-        <div class="Content-One-Nav-Button H4" v-on:click="scrollTo('Curriculum')">Our Curriculum</div>
+        <div class="Content-One-Nav-Button H5" v-on:click="scrollTo('Curriculum')">Our Curriculum</div>
       </div>
       <div class="Content-Two">
         <img class="Content-Two-Image" src="../assets/image10.png">
@@ -113,7 +113,7 @@ export default {
   text-align: center;
   color: white;
   display: flex;
-  margin-top: 5%;
+  margin-top: 5%!important;
   background-color: #00B1FF;
   justify-content: center;
   align-content: center;
