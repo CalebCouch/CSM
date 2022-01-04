@@ -13,7 +13,7 @@
       <div class="Content-One">
         <p class="H1 B" style="color: #001B27; padding-bottom: 1%;">Computer Science Mentorship for Calvinist Homeschoolers</p>
         <p class="H35" style="width: 100%;">A proven curriculum to teach your children programming and mathematics taught by a retired software CEO.</p>
-        <div class="Content-One-Nav-Button" v-on:click="scrollTo('Curriculum')">Our Curriculum</div>
+        <div class="Content-One-Nav-Button H4" v-on:click="scrollTo('Curriculum')">Our Curriculum</div>
       </div>
       <div class="Content-Two">
         <img class="Content-Two-Image" src="../assets/image10.png">
@@ -75,6 +75,12 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+
+@media only screen and (max-width: 651px) {
+  .Header {
+    height: 5%!important;
+  }
+}
 
 .white-space {
   width: 100%;
