@@ -47,8 +47,8 @@ export default {
 
   @media only screen and (max-width: 651px) {
     .H1 {
-      font-size: 8.4vw; 
-      line-height: 5.1vw;
+      font-size: 8.4vw!important; 
+      line-height: 10.1vw;
       margin: 0px!important;
     }
 
