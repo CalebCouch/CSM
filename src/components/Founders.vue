@@ -50,6 +50,13 @@ export default {
     margin:auto;
     box-shadow: 0 0 3vw 0.6vw lightgrey;
   }
+
+  @media only screen and (max-width: 651px) {
+    .Founders-People {
+      flex-direction: column!important;
+    }
+  }
+
   .Founders-Header {
     width: 100%;
     heigth: 5%;

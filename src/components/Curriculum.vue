@@ -55,6 +55,16 @@
             <p class="H5 Projects-Body-Header">Free open-source software is a great way to contribute to something people actually use while learning how to work with others on a large project and begin to establish a reputation.</p>
           </div>
         </div>
+        <div class="Projects-Body2" style="display: none;">
+          <p class="H3 Projects-Small-Header">Complete a Web-Develpment Project</p>
+          <p class="H5 Projects-Body-Header">After learning all the base skills mandatory for programming, the kids will combine their knowledge to create their first project: a functional website.</p>
+          <p class="H3 Projects-Small-Header">Create a Web-Application</p> 
+          <p class="H5 Projects-Body-Header">Your children will now use their web-development, back-end, and database skills to create a web-application</p>
+          <p class="H3 Projects-Small-Header">Complete a Back-End and Database Project</p>
+          <p class="H5 Projects-Body-Header">In this project, your kids will learn how to set up a database to store data in files for any project.</p>
+          <p class="H3 Projects-Small-Header">Contributing to an Open-Source Project</p>
+          <p class="H5 Projects-Body-Header">Free open-source software is a great way to contribute to something people actually use while learning how to work with others on a large project and begin to establish a reputation.</p>
+        </div>
       </div>
     </div>
   </div>
@@ -72,6 +82,36 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+    @media only screen and (max-width: 651px) {
+    .Skills-Body {
+      flex-direction: column!important;
+    }
+    .Skills-Left, .Skills-Right, .Skills-Header-Text {
+      width: 100%!important;
+      text-align: center!important;
+
+    }
+    .Projects-Body {
+      display: none!important;
+    }
+    .Projects-Body2 {
+      display: flex!important;
+      text-align: center!important;
+    }
+    .Projects-Header {
+      text-align: center!important;
+    }
+    .Projects-Small-Header {
+      text-align: center!important;
+      width: 100%!important;
+    }
+    .Projects-Body-Header {
+      text-align: center!important;
+      width: 100%!important;
+    }
+  }
+
+
   .Floating-Image {
     top: 120%;
     left: 60%;
@@ -130,6 +170,13 @@ export default {
     width: 100%;
     display: flex;
     flex-direction: row;
+    margin-top: 2.5%;
+  }
+
+  .Projects-Body2 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
     margin-top: 2.5%;
   }
 

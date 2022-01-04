@@ -145,26 +145,32 @@ export default {
 
   .Register {
     width: 100vw;
-    height: 60vw;
     display: flex;
     margin-top: 5vw;
   }
 
   .Register-Content {
     width: 87.5vw;
-    height: 100%;
     margin:auto;
     display: flex;
     flex-direction: row;
   }
 
   .Register-Left, Register-Right {
-    height: 100%;
   }
 
   .Register-Right {
     width: 55%;
   }
+
+  @media only screen and (max-width: 800px) {
+  .Register-Right {
+    display: none;
+  }
+  .Register-Left {
+    width: 100%!important;
+  }
+}
 
   .Register-Left {
     width: 45%;
@@ -179,6 +185,7 @@ export default {
     width: 60%;
     margin: auto;
     margin-top: 5%;
+    margin-bottom: 10%;
   }
 
 </style>

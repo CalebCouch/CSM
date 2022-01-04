@@ -6,7 +6,7 @@
         <div class="nav-button"v-on:click="scrollTo('FAQ')" >FAQ</div>
         <div class="nav-button" v-on:click="scrollTo('Curriculum')">Curriculum</div>
         <div class="nav-button" v-on:click="scrollTo('Founders')" >Founders</div>
-        <div class="Register" v-on:click="scrollTo('Register')">Register</div>
+        <div class="Register-button" v-on:click="scrollTo('Register')">Register</div>
       </div>
     </div>
     <div class="Content">
@@ -114,6 +114,11 @@ export default {
   flex-direction: column;
   cursor: pointer;
 }
+@media only screen and (max-width: 1007px) {
+  .Content-One-Nav-Button {
+    width: 80%;
+  }
+}
 
 .Content-Two {
   width: 100%;
@@ -157,7 +162,7 @@ export default {
   cursor: pointer;
 }
 
-.Register {
+.Register-button {
   align-self: center;
   width: 9vw;
   text-align: center;
