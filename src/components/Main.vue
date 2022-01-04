@@ -80,6 +80,9 @@ export default {
   .Header {
     height: 5%!important;
   }
+  .Content-Two {
+    display: none!important;
+  }
 }
 
 .white-space {
