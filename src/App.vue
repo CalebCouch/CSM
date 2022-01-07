@@ -53,38 +53,38 @@ export default {
     }
 
     .H2 {
-      font-size: 3.6vw;
-      line-height: 4.3vw;
+      font-size: 7.2vw!important;
+      line-height: 8.6vw!important;
       margin: 0px!important;
     }
 
     .H3 {
-      font-size: 2.7vw;
-      line-hegiht: 3.29vw;
+      font-size: 5.4vw!important;
+      line-hegiht: 6.6vw!important;
       margin: 0px!important;
     }
 
     .H35 {
-      font-size: 2.4vw;
-      line-height: 2.925vw;
+      font-size: 4.8vw!important;
+      line-height: 6vw!important;
       margin: 0px!important;
     }
 
     .H4 {
-      font-size: 1.8vw;
-      line-hegiht: 2.1vw;
+      font-size: 3.6vw!important;
+      line-hegiht: 4.2vw!important;
       margin: 0px!important;
     }
 
     .H5 {
-      font-size: 1.4vw;
-      line-hegiht: 1.7vw;
+      font-size: 2.8vw!important;
+      line-hegiht: 3.4vw!important;
       margin: 0px!important;
     }
 
     .H6 {
-      font-size: 1.15vw;
-      line-hegiht: 1.3vw;
+      font-size: 2.2vw!important;
+      line-hegiht: 2.6vw!important;
       margin: 0px!important;
     }
   }
