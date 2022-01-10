@@ -83,6 +83,11 @@ export default {
   .Content-Two {
     display: none!important;
   }
+  .Register-button {
+    width: 18vw!important;
+    height: 70%!important;
+  }
+
 }
 
 .white-space {
