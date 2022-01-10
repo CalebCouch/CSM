@@ -55,6 +55,9 @@ export default {
     .Founders-People {
       flex-direction: column!important;
     }
+    .Person {
+      width: 100%!important;
+    }
   }
 
   .Founders-Header {
