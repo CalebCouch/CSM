@@ -128,7 +128,7 @@ export default {
     width: 80%;
   }
   .nav-buttons {
-    width: 70%;
+    width: 70%!important;
   }
 }
 
