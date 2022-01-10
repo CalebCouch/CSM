@@ -3,10 +3,10 @@
     <div class="Header">
       <img class="logo-one" src="../assets/logo.png">
       <div class="nav-buttons">
-        <div class="nav-button"v-on:click="scrollTo('FAQ')" >FAQ</div>
-        <div class="nav-button" v-on:click="scrollTo('Curriculum')">Curriculum</div>
-        <div class="nav-button" v-on:click="scrollTo('Founders')" >Founders</div>
-        <div class="Register-button" v-on:click="scrollTo('Register')">Register</div>
+        <div class="nav-button H5"v-on:click="scrollTo('FAQ')" >FAQ</div>
+        <div class="nav-button H5" v-on:click="scrollTo('Curriculum')">Curriculum</div>
+        <div class="nav-button H5" v-on:click="scrollTo('Founders')" >Founders</div>
+        <div class="Register-button H5" v-on:click="scrollTo('Register')">Register</div>
       </div>
     </div>
     <div class="Content">
