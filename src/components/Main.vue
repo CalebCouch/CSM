@@ -127,6 +127,9 @@ export default {
   .Content-One-Nav-Button {
     width: 80%;
   }
+  .nav-buttons {
+    width: 70%;
+  }
 }
 
 .Content-Two {
