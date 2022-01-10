@@ -84,8 +84,11 @@ export default {
     display: none!important;
   }
   .Register-button {
-    width: 18vw!important;
+    width: 22vw!important;
     height: 70%!important;
+  }
+  .nav-buttons {
+    width: 85%!important;
   }
 
 }
@@ -133,7 +136,7 @@ export default {
     width: 80%;
   }
   .nav-buttons {
-    width: 70%!important;
+    width: 50%!important;
   }
 }
 
