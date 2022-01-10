@@ -157,7 +157,7 @@ export default {
   font-family: Montserrat-Medium;
   font-size: 1.4vw;
   height: 100%;
-  margin-left: auto;
+  margin-left: auto!important;
   display: flex;
   padding-left: 5%;
   width: 55%;
@@ -165,7 +165,7 @@ export default {
 
 .nav-button {
   align-self: center;
-  margin-right: 10%;
+  margin-right: 10%!important;
   text-align: center;
   color: #FFFFFF;
   cursor: pointer;
