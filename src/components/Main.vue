@@ -76,6 +76,16 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 
+@media only screen and (max-width: 1007px) {
+  .Content-One-Nav-Button {
+    width: 80%;
+  }
+  .nav-buttons {
+    width: 50%!important;
+  }
+}
+
+
 @media only screen and (max-width: 651px) {
   .Header {
     height: 5%!important;
@@ -130,14 +140,6 @@ export default {
   align-content: center;
   flex-direction: column;
   cursor: pointer;
-}
-@media only screen and (max-width: 1007px) {
-  .Content-One-Nav-Button {
-    width: 80%;
-  }
-  .nav-buttons {
-    width: 50%!important;
-  }
 }
 
 .Content-Two {
