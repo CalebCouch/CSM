@@ -12,8 +12,8 @@
             </div>
             <div class="Person">
               <img src="../assets/CalebCouch.png">
-              <p class="H5" style="color: #6A6A6A;">Jack is a succesful software and computer science engineer. He founded this program to provide kids with benifital skills that can be put towards a lucrative career</p>
-              
+<!--               <p class="H5" style="color: #6A6A6A;">Jack is a succesful software and computer science engineer. He founded this program to provide kids with benifital skills that can be put towards a lucrative career</p>
+ -->              
             </div>
             <div class="Person">
               <img src="../assets/EllaCouch.png">
