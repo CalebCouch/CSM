@@ -94,8 +94,6 @@ export default {
     display: none!important;
   }
   .Register-button {
-    width: 22vw!important;
-    height: 70%!important;
   }
   .nav-button {
     display: none!important;
@@ -103,6 +101,9 @@ export default {
   .Content {
     margin-bottom: 50%;
     box-shadow: 0 0 0 0!important;
+  }
+  .Content-One-Nav-Button {
+    width: 100%!important;
   }
 
 }
