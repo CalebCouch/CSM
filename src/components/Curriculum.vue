@@ -101,7 +101,7 @@ export default {
       width: 100%!important;
     }
     .Projects-Body-Header {
-      width: 90%!important;
+      width: 100%!important;
     }
   }
 
