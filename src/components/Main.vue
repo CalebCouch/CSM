@@ -98,10 +98,11 @@ export default {
     height: 70%!important;
   }
   .nav-buttons {
-    display: none;
+    display: none!important;
   }
   .Content {
     margin-bottom: 50%;
+    box-shadow: 0 0 0 0!important;
   }
 
 }
