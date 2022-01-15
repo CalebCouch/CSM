@@ -97,7 +97,7 @@ export default {
     width: 22vw!important;
     height: 70%!important;
   }
-  .nav-buttons {
+  .nav-button {
     display: none!important;
   }
   .Content {
