@@ -95,17 +95,20 @@ export default {
   }
   .Register-button {
     width: 22vw!important;
-    height: 70%!important;
+    height: 60%!important;
   }
   .nav-button {
     display: none!important;
+  }
+  .nav-buttons {
+    width: 80%!important;
   }
   .Content {
     margin-bottom: 50%;
     box-shadow: 0 0 0 0!important;
   }
   .Content-One-Nav-Button {
-    width: 90%!important;
+    width: 95%!important;
   }
 
 }
