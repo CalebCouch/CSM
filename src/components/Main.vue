@@ -88,7 +88,7 @@ export default {
 
 @media only screen and (max-width: 651px) {
   .Header {
-    height: 5%!important;
+    height: 10%!important;
   }
   .Content-Two {
     display: none!important;
@@ -98,7 +98,10 @@ export default {
     height: 70%!important;
   }
   .nav-buttons {
-    width: 85%!important;
+    display: none;
+  }
+  .Content {
+    margin-bottom: 50%;
   }
 
 }
