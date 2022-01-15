@@ -103,6 +103,9 @@ export default {
     .Projects-Body-Header {
       width: 100%!important;
     }
+    .Curriculum-Content {
+      box-shadow: 0 0.4vw 0 0 #D8D8D8!important;
+    }
   }
 
 
