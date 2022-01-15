@@ -104,7 +104,7 @@ export default {
       width: 100%!important;
     }
     .Curriculum-Content {
-      box-shadow: 0 -0.4vw 0 0 #D8D8D8!important;
+      box-shadow: 0 -1.2vw 0 0 #D8D8D8!important;
     }
   }
 
