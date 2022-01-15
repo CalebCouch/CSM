@@ -88,25 +88,19 @@ export default {
     }
     .Skills-Left, .Skills-Right, .Skills-Header-Text {
       width: 100%!important;
-      text-align: center!important;
-
     }
     .Projects-Body {
       display: none!important;
     }
     .Projects-Body2 {
       display: flex!important;
-      text-align: center!important;
     }
     .Projects-Header {
-      text-align: center!important;
     }
     .Projects-Small-Header {
-      text-align: center!important;
       width: 100%!important;
     }
     .Projects-Body-Header {
-      text-align: center!important;
       width: 100%!important;
     }
   }
