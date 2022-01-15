@@ -65,7 +65,7 @@ export default {
     }
 
     .H35 {
-      font-size: 4.8vw!important;
+      font-size: 5vw!important;
       line-height: 6vw!important;
       margin: 0px!important;
     }
