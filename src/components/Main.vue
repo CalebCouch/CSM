@@ -13,7 +13,7 @@
       <div class="Content-One">
         <p class="H1 B" style="color: #001B27; padding-bottom: 1%;">Computer Science Mentorship for Calvinist Homeschoolers</p>
         <p class="H35" style="width: 100%;">A proven curriculum to teach your children programming and mathematics taught by a retired software CEO.</p>
-        <div class="Content-One-Nav-Button H5" v-on:click="scrollTo('Curriculum')"><p class="H4">Our Curriculum</p></div>
+        <div class="Content-One-Nav-Button H5" v-on:click="scrollTo('Curriculum')"><p class="buttonC">Our Curriculum</p></div>
       </div>
       <div class="Content-Two">
         <img class="Content-Two-Image" src="../assets/image10.png">
@@ -101,7 +101,7 @@ export default {
     display: none!important;
   }
   .nav-buttons {
-    width: 27vw!important;
+    width: 30vw!important;
   }
   .Content {
     margin-bottom: 50%;
@@ -110,6 +110,11 @@ export default {
   .Content-One-Nav-Button {
     width: 95%!important;
     height: 7.5vh!important;
+  }
+  .buttonC {
+    font-size: 5vw!important;
+    line-height: 6vw!important;
+    margin: 0px!important;
   }
 
 }
