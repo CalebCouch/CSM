@@ -6,7 +6,7 @@
         <div class="nav-button H5"v-on:click="scrollTo('FAQ')" >FAQ</div>
         <div class="nav-button H5" v-on:click="scrollTo('Curriculum')">Curriculum</div>
         <div class="nav-button H5" v-on:click="scrollTo('Founders')" >Founders</div>
-        <div class="Register-button H5" v-on:click="scrollTo('Register')">Register</div>
+        <div class="Register-button H5" v-on:click="scrollTo('Register-Left')">Register</div>
       </div>
     </div>
     <div class="Content">
@@ -108,7 +108,6 @@ export default {
     box-shadow: 0 0 0 0!important;
   }
   .Content-One-Nav-Button {
-    margin-top: 2.5%!important;
     width: 95%!important;
     height: 7.5vh!important;
   }
