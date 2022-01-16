@@ -120,8 +120,8 @@ export default {
       box-shadow: 0 -1.2vw 0 0 #D8D8D8!important;
     }
     .subtext {
-      font-size: 6vw!important;
-      line-hegiht: 7.2vw!important;
+       font-size: 4.2vw!important;
+      line-hegiht: 5vw!important;
       margin: 0px!important;
       font-family: Montserrat!important;
     }
