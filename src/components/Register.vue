@@ -2,7 +2,7 @@
   <div class="Register" id="Register">
     <div class="Register-Content">
       <div class="Register-Left">
-        <p class="H1 B" style="margin-top: 12.5%!important; margin-bottom: 2.5%!important;">Register</p>
+        <p class="H1 B header" style="margin-top: 12.5%!important; margin-bottom: 2.5%!important;">Register</p>
         <p class="H6 L subtext" style="width: 80%;">Each student is required to be between the ages of eight and eighteen, have the skill to read, have the skill to do addition and subtraction math problems, and be part of a Reformed, Christian, family. </p>
         <div class="Form">
           <b-form @submit="onSubmit" @reset="onReset" v-if="show">
@@ -124,6 +124,9 @@ export default {
       line-hegiht: 3.4vw!important;
       margin: 0px!important;
       font-family: Montserrat!important;
+    }
+    .header {
+      color: #00B1FF;
     }
   }
   @media only screen and (max-width: 800px) {
