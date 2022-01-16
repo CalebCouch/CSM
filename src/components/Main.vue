@@ -92,6 +92,9 @@ export default {
     position: fixed!important;
     top: 0!important;
   }
+  .Content {
+    margin-top: 10%!important;
+  }
   .Content-Two {
     display: none!important;
   }
