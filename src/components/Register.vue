@@ -129,7 +129,7 @@ export default {
       color: #00B1FF;
     }
     .Form {
-      width: 100%!important;
+      width: 90%!important;
     }
   }
   @media only screen and (max-width: 800px) {

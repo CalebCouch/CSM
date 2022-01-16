@@ -77,8 +77,8 @@ export default {
     }
 
     .H5 {
-      font-size: 2.8vw!important;
-      line-hegiht: 3.4vw!important;
+      font-size: 4.2vw!important;
+      line-hegiht: 5vw!important;
       margin: 0px!important;
     }
 
