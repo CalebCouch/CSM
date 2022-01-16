@@ -17,7 +17,7 @@
               <b-card-body style="padding-left: 0!important;">
                 <p class="H5 M">Each student will learn every skill that is imperative to programming.</p>
                 <div class="FAQ-Nav-Button" v-on:click="scrollTo('Curriculum')">See the curriculum</div>
-                 <div class="FAQ-Nav-Button2" style="display: none;" v-on:click="scrollTo('Curriculum')"><div class="H5 M" style="margin: auto;">Curriculum</div></div>
+                 <div class="FAQ-Nav-Button2" style="display: none;" v-on:click="scrollTo('Curriculum')"><div class="H5 M" style="margin: auto!important;">Curriculum</div></div>
               </b-card-body>
             </b-collapse>
           </b-card>
