@@ -83,8 +83,8 @@ export default {
     }
 
     .H6 {
-      font-size: 2.2vw!important;
-      line-hegiht: 2.6vw!important;
+      font-size: 6vw!important;
+      line-hegiht: 7.2vw!important;
       margin: 0px!important;
     }
   }
