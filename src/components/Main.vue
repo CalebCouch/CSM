@@ -94,7 +94,7 @@ export default {
     display: none!important;
   }
   .Register-button {
-    width: 22vw!important;
+    width: 27vw!important;
     height: 60%!important;
   }
   .nav-button {
