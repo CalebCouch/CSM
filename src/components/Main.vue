@@ -95,6 +95,7 @@ export default {
     height: 10%!important;
     position: fixed!important;
     top: 0!important;
+    z-index: 0!important;
   }
   .Content {
     margin-top: 20%!important;
