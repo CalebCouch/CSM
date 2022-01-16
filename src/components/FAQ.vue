@@ -202,7 +202,7 @@ export default {
   .FAQ-Nav-Button2 {
     height: 5vh;
     border-radius: 100px;
-    width: 50%;
+    width: 100%;
     text-align: center;
     color: white;
     display: flex;
