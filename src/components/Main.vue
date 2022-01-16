@@ -89,6 +89,8 @@ export default {
 @media only screen and (max-width: 651px) {
   .Header {
     height: 10%!important;
+    position: fixed!important;
+    top: 0!important;
   }
   .Content-Two {
     display: none!important;
