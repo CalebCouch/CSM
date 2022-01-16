@@ -3,7 +3,7 @@
     <div class="Register-Content">
       <div class="Register-Left">
         <p class="H1 B" style="margin-top: 12.5%!important; margin-bottom: 2.5%!important;">Register</p>
-        <p class="H6 L" style="width: 80%;">Each student is required to be between the ages of eight and eighteen, have the skill to read, have the skill to do addition and subtraction math problems, and be part of a Reformed, Christian, family. </p>
+        <p class="H6 L subtext" style="width: 80%;">Each student is required to be between the ages of eight and eighteen, have the skill to read, have the skill to do addition and subtraction math problems, and be part of a Reformed, Christian, family. </p>
         <div class="Form">
           <b-form @submit="onSubmit" @reset="onReset" v-if="show">
             <p class="H6 M form-header">Parent’s Full Name</p>
@@ -118,6 +118,12 @@ export default {
   @media only screen and (max-width: 651px) {
     .Register-Left {
       box-shadow: 0 -1.2vw 0 0 #D8D8D8!important;
+    }
+    .subtext {
+      font-size: 2.8vw!important;
+      line-hegiht: 3.4vw!important;
+      margin: 0px!important;
+      font-family: Montserrat!important;
     }
   }
   @media only screen and (max-width: 800px) {
