@@ -170,6 +170,9 @@ export default {
     .FAQ-Content {
       box-shadow: 0 -1.2vw 0 0 #D8D8D8!important;
     }
+    .FAQ-image {
+      height: 50%!important;
+    }
   }
   
   .FAQ-Nav-Button {
