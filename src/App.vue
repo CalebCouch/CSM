@@ -83,8 +83,8 @@ export default {
     }
 
     .H6 {
-      font-size: 6vw!important;
-      line-hegiht: 7.2vw!important;
+      font-size: 5vw!important;
+      line-height: 6vw!important;
       margin: 0px!important;
     }
   }
