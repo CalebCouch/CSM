@@ -71,7 +71,7 @@ export default {
     }
 
     .H4 {
-      font-size: 3.6vw!important;
+      font-size: vw!important;
       line-hegiht: 4.2vw!important;
       margin: 0px!important;
     }
@@ -83,8 +83,8 @@ export default {
     }
 
     .H6 {
-      font-size: 5vw!important;
-      line-height: 6vw!important;
+      font-size: 4.2vw!important;
+      line-hegiht: 5vw!important;
       margin: 0px!important;
     }
   }
