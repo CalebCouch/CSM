@@ -199,6 +199,20 @@ export default {
     flex-direction: column;
     cursor: pointer;
   }
+  .FAQ-Nav-Button2 {
+    height: 5vh;
+    border-radius: 100px;
+    width: 50%;
+    text-align: center;
+    color: white;
+    display: flex;
+    margin-top: 5%;
+    background-color: #00B1FF;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    cursor: pointer;
+  }
 
   .FAQ-Card {
     box-shadow: 0 0.4vw 0 0 #D8D8D8;
