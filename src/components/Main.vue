@@ -55,8 +55,8 @@ export default {
           scrollContainer.scrollTop += 1;
       } while (scrollContainer.scrollTop == 0);
       
-      console.log(window.screen.height)
-      var targetY = 0;
+      console.log()
+      var targetY = window.screen.height / 0.2;
       do { //find the top of target relatively to the container
           if (target == scrollContainer) break;
           targetY += target.offsetTop;
