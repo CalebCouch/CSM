@@ -56,7 +56,7 @@ export default {
       } while (scrollContainer.scrollTop == 0);
       
       var targetY = 0
-      if (window.screen.height < 651) {
+      if (window.screen.width < 651) {
         targetY+= -((window.screen.height / 100) * 10);
       }
       
@@ -95,7 +95,7 @@ export default {
     height: 10%!important;
     position: fixed!important;
     top: 0!important;
-    z-index: 0!important;
+    z-index: 10!important;
   }
   .Content {
     margin-top: 20%!important;

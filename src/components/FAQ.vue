@@ -147,7 +147,7 @@ export default {
       } while (scrollContainer.scrollTop == 0);
       
       var targetY = 0
-      if (window.screen.height < 651) {
+      if (window.screen.width < 651) {
         targetY+= -((window.screen.height / 100) * 10);
       }
       
@@ -174,6 +174,9 @@ export default {
   @media only screen and (max-width: 651px) {
     .FAQ-Content {
       box-shadow: 0 -1.2vw 0 0 #D8D8D8!important;
+    }
+    .FAQ-Card {
+      z-index: 0!important;
     }
     .FAQ-image {
       margin-top: auto!important;
