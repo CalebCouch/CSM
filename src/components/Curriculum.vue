@@ -5,7 +5,7 @@
       <div class="Curriculum-Body">
         <div class="Curriculum-Header">
           <p class="H1 B" style="margin-bottom: 2.5%!important;">Curriculum</p>
-          <p class="H4">Since our curriculum is designed to teach kids typing, math, VIM, terminal, Javascript, HTML, and CSS, your kids will need to have already learned reading, addition and subtraction.</p>
+          <p class="H4" style="margin-bottom: 4%!important;">Since our curriculum is designed to teach kids typing, math, VIM, terminal, Javascript, HTML, and CSS, your kids will need to have already learned reading, addition and subtraction.</p>
         </div>
         <div class="Skills-Header">
           <div class="Skills-Header-Text">
@@ -37,7 +37,7 @@
           <p class="H2 SB" style="margin-bottom: 2.5%!important;">The Projects</p>
           <p class="H4 M">After the kids have learned all the sesential skills, they will start working on projects designed to further develop their knowledge and ability to program</p>
         </div>
-        <div class="Projects-Body">
+        <div class="Projects-Body" style="margin-bottom: 2.5%!important;">
           <div class="topic">
             <p class="H3 Projects-Small-Header">Complete a Web-Develpment Project</p>
             <p class="H3 Projects-Small-Header">Create a Web-Application</p> 
