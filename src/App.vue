@@ -71,8 +71,8 @@ export default {
     }
 
     .H4 {
-      font-size: vw!important;
-      line-hegiht: 4.2vw!important;
+     font-size: 4.7vw!important;
+      line-height: 5.6vw!important;
       margin: 0px!important;
     }
 
