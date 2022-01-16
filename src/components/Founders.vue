@@ -58,6 +58,9 @@ export default {
     .Person {
       width: 100%!important;
     }
+    .Founders-Content {
+      box-shadow: 0 -1.2vw 0 0 #D8D8D8!important;
+    }
   }
 
   .Founders-Header {

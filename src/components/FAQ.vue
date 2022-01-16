@@ -165,6 +165,12 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+
+  @media only screen and (max-width: 651px) {
+    .FAQ {
+      box-shadow: 0 -1.2vw 0 0 #D8D8D8!important;
+    }
+  }
   
   .FAQ-Nav-Button {
     height: 5vh;
