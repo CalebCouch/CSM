@@ -17,6 +17,7 @@
               <b-card-body style="padding-left: 0!important;">
                 <p class="H5 M">Each student will learn every skill that is imperative to programming.</p>
                 <div class="FAQ-Nav-Button" v-on:click="scrollTo('Curriculum')">See the curriculum</div>
+                 <div class="FAQ-Nav-Button2" style="display: none;" v-on:click="scrollTo('Curriculum')">Curriculum</div>
               </b-card-body>
             </b-collapse>
           </b-card>
@@ -175,6 +176,12 @@ export default {
       margin-left: auto!important;
       margin-bottom: auto!important;
       height: 7vw!important;
+    }
+    .FAQ-Nav-Button {
+      display: none!important;
+    }
+    .FAQ-Nav-Button2 {
+      display: block!important;
     }
   }
   
