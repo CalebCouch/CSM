@@ -101,7 +101,7 @@ export default {
     display: none!important;
   }
   .nav-buttons {
-    width: 30vw!important;
+    width: 40vw!important;
   }
   .Content {
     margin-bottom: 50%;
