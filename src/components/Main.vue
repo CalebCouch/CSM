@@ -56,7 +56,7 @@ export default {
       } while (scrollContainer.scrollTop == 0);
       
       var targetY = 0
-      if (window.screen.height < 65) {
+      if (window.screen.height < 651) {
         targetY+= -((window.screen.height / 100) * 10);
       }
       
