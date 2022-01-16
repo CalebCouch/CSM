@@ -59,8 +59,8 @@ export default {
     }
 
     .H3 {
-      font-size: 5.4vw!important;
-      line-hegiht: 6.6vw!important;
+      font-size: 6vw!important;
+      line-hegiht: 7.2vw!important;
       margin: 0px!important;
     }
 
