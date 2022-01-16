@@ -136,6 +136,9 @@ export default {
     .Form {
       width: 90%!important;
     }
+    .form-header {
+      width: 100%!important;
+    }
   }
   @media only screen and (max-width: 800px) {
     .Register-Right {
