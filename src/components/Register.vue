@@ -117,6 +117,7 @@ export default {
 
   @media only screen and (max-width: 651px) {
     .Register {
+      margin-top: 5%!important;
       box-shadow: 0 -1.2vw 0 0 #D8D8D8!important;
     }
     .Register-Left {
