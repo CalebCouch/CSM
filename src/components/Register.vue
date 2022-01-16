@@ -114,6 +114,20 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+
+  @media only screen and (max-width: 651px) {
+    .Register-Left {
+      box-shadow: 0 -1.2vw 0 0 #D8D8D8!important;
+    }
+  }
+  @media only screen and (max-width: 800px) {
+    .Register-Right {
+      display: none;
+    }
+    .Register-Left {
+      width: 100%!important;
+    }
+  }
   .computer2 {
     width: 100%;
     height: 100%;
@@ -162,15 +176,6 @@ export default {
   .Register-Right {
     width: 55%;
   }
-
-  @media only screen and (max-width: 800px) {
-  .Register-Right {
-    display: none;
-  }
-  .Register-Left {
-    width: 100%!important;
-  }
-}
 
   .Register-Left {
     width: 45%;
