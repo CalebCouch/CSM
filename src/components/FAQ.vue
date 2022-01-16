@@ -181,7 +181,7 @@ export default {
       display: none!important;
     }
     .FAQ-Nav-Button2 {
-      display: block!important;
+      display: flex!important;
     }
   }
   
