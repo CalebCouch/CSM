@@ -108,6 +108,7 @@ export default {
     box-shadow: 0 0 0 0!important;
   }
   .Content-One-Nav-Button {
+    margin-top: 2.5%!important;
     width: 95%!important;
     height: 7.5vh!important;
   }
