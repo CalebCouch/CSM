@@ -93,7 +93,7 @@ export default {
     top: 0!important;
   }
   .Content {
-    margin-top: 10%!important;
+    margin-top: 20%!important;
   }
   .Content-Two {
     display: none!important;
