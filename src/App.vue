@@ -19,23 +19,23 @@ export default {
   @font-face {
     font-family: Montserrat;
     font-weight: bold;
-    src: url("./assets/Montserrat/Montserrat-Bold.otf") format("opentype");
+    src: url("./assets/montserrat/montserrat-Bold.otf") format("opentype");
   }
   @font-face {
     font-family: Montserrat-semibold;
-    src: url("./assets/Montserrat/Montserrat-SemiBold.otf") format("opentype");
+    src: url("./assets/montserrat/montserrat-SemiBold.otf") format("opentype");
   }
   @font-face {
     font-family: Montserrat-Medium;
-    src: url("./assets/Montserrat/Montserrat-Medium.otf") format("opentype");
+    src: url("./assets/montserrat/montserrat-Medium.otf") format("opentype");
   }
   @font-face {
     font-family: Montserrat-Light;
-    src: url("./assets/Montserrat/Montserrat-Light.otf") format("opentype");
+    src: url("./assets/montserrat/montserrat-Light.otf") format("opentype");
   }
   @font-face {
     font-family: Montserrat;
-    src: url("./assets/Montserrat/Montserrat-Regular.otf") format("opentype");
+    src: url("./assets/montserrat/montserrat-Regular.otf") format("opentype");
     font-weight: normal;
   }
 
