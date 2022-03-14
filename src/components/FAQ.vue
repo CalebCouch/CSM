@@ -65,11 +65,11 @@
             </div>
             <b-collapse class="acord" id="accordion-5" accordion="my-accordion" role="tabpanel">
               <b-card-body style="padding-left: 0!important;">
-                <p class="H5 M">The price is 195$ per month, However partial and full Shcolarships are available.</p>
+                <p class="H5 M">The cost is similar to a weekly Karate class ($195) however this is a not for profit and we are happy to waive fees when helpful.</p>
               </b-card-body>
             </b-collapse>
           </b-card>
-          <b-card no-body class="mb-1 FAQ-Card">
+          <!-- <b-card no-body class="mb-1 FAQ-Card">
             <div v-b-toggle.accordion-6 class="FAQ-Small-Header">
               <p class="H35 B">What’s the program’s schedule?</p>
               <img id="plus6" class="FAQ-image" src="../assets/plus.png">
@@ -80,8 +80,8 @@
                 <p class="H5 M">Each schedule will be different for each student. A schedule for your child will be provided on location.</p>
               </b-card-body>
             </b-collapse>
-          </b-card>
-          <b-card no-body class="mb-1 FAQ-Card">
+          </b-card> -->
+          <!-- <b-card no-body class="mb-1 FAQ-Card">
             <div v-b-toggle.accordion-7 class="FAQ-Small-Header">
               <p class="H35 B">Who’s going to be teaching?</p>
               <img id="plus7" class="FAQ-image" src="../assets/plus.png">
@@ -92,7 +92,7 @@
                 <p class="H5 M">Software developers Caleb and Jack Couch</p>
               </b-card-body>
             </b-collapse>
-          </b-card>
+          </b-card> -->
           <b-card no-body class="mb-1 FAQ-Card">
             <div v-b-toggle.accordion-8 class="FAQ-Small-Header">
               <p class="H35 B">What’s the age range of the students?</p>
@@ -101,7 +101,7 @@
             </div>
             <b-collapse class="acord" id="accordion-8" accordion="my-accordion" role="tabpanel">
               <b-card-body style="padding-left: 0!important;">
-                <p class="H5 M">All of the students are required to be between the ages of eight to eighteen</p>
+                <p class="H5 M">Between 8 and 18 years old.</p>
               </b-card-body>
             </b-collapse>
           </b-card>

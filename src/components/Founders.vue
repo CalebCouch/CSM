@@ -7,17 +7,17 @@
           <div class="Founders-People">
             <div class="Person">
               <img src="../assets/JackCouch.png">
-              <p class="H5" style="color: #6A6A6A;">Jack is a succesful software and computer science engineer. He founded this program to provide kids with benifital skills that can be put towards a lucrative career</p>
+              <p class="H5" style="color: #6A6A6A;">Jack is a successful software CEO. He has worked for Microsoft, Amazon, Google and he has founded a few successful startups.</p>
               
             </div>
             <div class="Person">
               <img src="../assets/CalebCouch.png">
-<!--               <p class="H5" style="color: #6A6A6A;">Jack is a succesful software and computer science engineer. He founded this program to provide kids with benifital skills that can be put towards a lucrative career</p>
- -->              
+              <p class="H5" style="color: #6A6A6A;">Caleb has been programming full time since he was 14 years old and accepted his first full time position as a software engineer when he was 16. He has built software used by thousands of people every day and is in a mentorship program to learn graduate level mathematics.</p>
+              
             </div>
             <div class="Person">
               <img src="../assets/EllaCouch.png">
-              <p class="H5" style="color: #6A6A6A;">Designed the website, And wanted to be included in the founders section.</p>
+              <p class="H5" style="color: #6A6A6A;">Ella started programming at 14 years old. She has built websites like this one and loves teaching her brothers and sisters algorithms. She has taken graphic design and 3D environment modeling classes and enjoys building games and writing stories.</p>
               
             </div>
           </div>

@@ -3,7 +3,7 @@
     <div class="Register-Content">
       <div class="Register-Left" id="Register-Left">
         <p class="H1 B header" style="margin-top: 12.5%; margin-bottom: 2.5%;">Register</p>
-        <p class="H6 L subtext" style="width: 80%;">Each student is required to be between the ages of eight and eighteen, have the skill to read, have the skill to do addition and subtraction math problems, and be part of a Reformed, Christian, family. </p>
+        <p class="H6 L subtext" style="width: 80%;">Each student is required to be between the ages of eight and eighteen, have the skill to read, have the skill to do addition and subtraction math problems, and be part of a Reformed, Christian, family.</p>
         <div class="Form">
           <b-form @submit="onSubmit" @reset="onReset" v-if="show">
             <p class="H6 M form-header">Parent’s Full Name</p>
@@ -33,8 +33,7 @@
               required
             ></b-form-input>
 
-             <p class="H6 M form-header" style="width: 80%;">Please Enter the Ages of all Kids 
-You are Wanting to Participater</p>
+             <p class="H6 M form-header" style="width: 80%;">Please Enter the Ages of all Kids You are Wanting to Participate</p>
             <b-form-input
               id="input-1"
               v-model="form.ages"

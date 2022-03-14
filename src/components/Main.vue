@@ -12,7 +12,7 @@
     <div class="Content">
       <div class="Content-One">
         <p class="H1 B" style="color: #001B27; padding-bottom: 1%;">Computer Science Mentorship for Calvinist Homeschoolers</p>
-        <p class="H35" style="width: 100%;">A proven curriculum to teach your children programming and mathematics taught by a retired software CEO.</p>
+        <p class="H35" style="width: 100%;">A proven curriculum to teach your children programming and mathematics taught by a software CEO.</p>
         <div class="Content-One-Nav-Button H5" v-on:click="scrollTo('Curriculum')"><div class="buttonC">Our Curriculum</div></div>
       </div>
       <div class="Content-Two">

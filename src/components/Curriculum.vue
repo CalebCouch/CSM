@@ -5,7 +5,7 @@
       <div class="Curriculum-Body">
         <div class="Curriculum-Header">
           <p class="H1 B" style="margin-bottom: 2.5%!important;">Curriculum</p>
-          <p class="H4" style="margin-bottom: 4%!important;">Since our curriculum is designed to teach kids typing, math, VIM, terminal, Javascript, HTML, and CSS, your kids will need to have already learned reading, addition and subtraction.</p>
+          <p class="H4" style="margin-bottom: 4%!important;">The curriculum is designed to teach kids typing, math, VIM, terminal, Javascript, HTML, and CSS. As long as your kids have already learned reading, addition and subtraction they are ready for it.</p>
         </div>
         <div class="Skills-Header">
           <div class="Skills-Header-Text">
@@ -17,25 +17,25 @@
         <div class="Skills-Body">
           <div class="Skills-Left">
             <p class="H3 Skills-Small-Header">Typing</p>
-            <p class="H5 M">Typing is the first skill your kids will learn, since typing is necessary to any programming project.</p>
+            <p class="H5 M">When you have solid touch typing skills it makes all computer work, including programming, a lot more fun and interesting.</p>
             <p class="H3 Skills-Small-Header">VIM</p>
-            <p class="H5 M">VIM’s keyboard shortcuts help people write code efficently. We teach the children VIM using the online game VIM’s Adventures. It's the "Zelda meets text editing" game. So come have some fun and learn some VIM!</p>
+            <p class="H5 M">VIM is a set of keyboard shortcuts that make it much faster to write computer programs (or really any text). We use the online game VIM’s Adventures. It's the "Zelda meets text editing" game. So come have some fun and learn some VIM!</p>
             <p class="H3 Skills-Small-Header">Javascript</p>
-            <p class="H5 M">Javascript is a popular programming language that is easy to learn and very useful.</p>
+            <p class="H5 M">Javascript is a popular programming language that is easy to learn and very useful. Almost every website or app you use has at least some javascript code.</p>
 
           </div>
           <div class="Skills-Right">
             <p class="H3 Skills-Small-Header">Math</p>
-            <p class="H5 M">Along with typing, another skill required is math. They will learn multiplication, division and algebra.</p>
+            <p class="H5 M">Like everything else in life math is a lot more fun and interesting when you are learning it to solve an interesting problem. Students will learn how and when to use multiplication, division and algebra.</p>
             <p class="H3 Skills-Small-Header">Terminal</p>
-            <p class="H5 M">Terminals, also known as command lines or consoles, are used to navigate and manipulate folders and files inside your computer. We will teach the kids the commands required for creating and completing a program.</p>
+            <p class="H5 M">Terminals, also known as command lines or consoles, are used to navigate and manipulate folders and files inside your computer.  When you see a hacker montage in a movie they usually show a screen with a lot of terminal windows open. Not all computer commands are accessible by clicking with a mouse so students will become comfortable with using terminals as they build and release software projects.</p>
             <p class="H3 Skills-Small-Header">HTML & CSS</p>
-            <p class="H5 M">HTML and CSS are programming languages used for web-design. We will teach the kids how to use these two languages together to create great user-interface designs.</p>
+            <p class="H5 M">HTML and CSS are programming languages used for web-design. We will teach the kids how to use these two languages together to create great user-interfaces.</p>
           </div>
         </div>
         <div class="Projects-Header">
           <p class="H2 SB" style="margin-bottom: 2.5%!important;">The Projects</p>
-          <p class="H4 M">After the kids have learned all the sesential skills, they will start working on projects designed to further develop their knowledge and ability to program</p>
+          <p class="H4 M">After the kids have learned all the essential skills, they will start working on projects designed to further develop their knowledge and ability to program</p>
         </div>
         <div class="Projects-Body" style="margin-bottom: 2.5%!important;">
           <div class="topic">
@@ -43,7 +43,7 @@
             <p class="H3 Projects-Small-Header">Create a Web-Application</p> 
           </div>
           <div class="topic">
-            <p class="H5 Projects-Body-Header">After learning all the base skills mandatory for programming, the kids will combine their knowledge to create their first project: a functional website.</p>
+            <p class="H5 Projects-Body-Header">After learning all the basic skills mandatory for programming, the kids will combine their knowledge to create their first project: a functional website.</p>
             <p class="H5 Projects-Body-Header">Your children will now use their web-development, back-end, and database skills to create a web-application</p>
           </div>
           <div class="topic">
@@ -51,8 +51,8 @@
             <p class="H3 Projects-Small-Header">Contributing to an Open-Source Project</p>
           </div>
           <div class="topic">
-            <p class="H5 Projects-Body-Header">In this project, your kids will learn how to set up a database to store data in files for any project.</p>
-            <p class="H5 Projects-Body-Header">Free open-source software is a great way to contribute to something people actually use while learning how to work with others on a large project and begin to establish a reputation.</p>
+            <p class="H5 Projects-Body-Header">In this project, your kids will learn how to set up a database to store data.</p>
+            <p class="H5 Projects-Body-Header">Free open-source software is a great way to contribute to something people actually use while learning how to work with others on a large project and begin to establish a reputation as someone that is fun to work with.</p>
           </div>
         </div>
         <div class="Projects-Body2" style="display: none;">
